@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mandela Kibiriti
 - 👀 I’m interested in data science and machine learning in healthcare
-- 🌱 I’m currently learning data xcience
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mandelakibiriti@byon8.com / mandelakibiriti@gmail.com
 
